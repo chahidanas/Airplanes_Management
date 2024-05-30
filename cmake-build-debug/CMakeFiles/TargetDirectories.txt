@@ -1,0 +1,3 @@
+C:/Users/chahi/CLionProjects/ChahidAirlines/cmake-build-debug/CMakeFiles/ChahidAirlines.dir
+C:/Users/chahi/CLionProjects/ChahidAirlines/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chahi/CLionProjects/ChahidAirlines/cmake-build-debug/CMakeFiles/rebuild_cache.dir
